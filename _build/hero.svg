@@ -1,0 +1,75 @@
+<svg class="hero-svg" viewBox="0 0 1200 420" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
+  <defs>
+    <linearGradient id="hsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a2236"/>
+      <stop offset="45%" stop-color="#071622"/>
+      <stop offset="100%" stop-color="#050d16"/>
+    </linearGradient>
+    <linearGradient id="hglow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3fc1c9" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#3fc1c9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#hsky)"/>
+  <!-- faint structural grid -->
+  <g stroke="#8fb4c8" stroke-opacity="0.08" stroke-width="1">
+    <path d="M0,140 H1200 M0,240 H1200 M0,340 H1200"/>
+    <path d="M500,0 V420 M640,0 V420 M780,0 V420 M920,0 V420 M1060,0 V420"/>
+  </g>
+  <!-- overhead I-beam -->
+  <g fill="none" stroke="#9be7ea" stroke-width="2">
+    <path d="M560,34 H1200 M560,40 H1200"/>
+    <path d="M560,62 H1200 M560,68 H1200"/>
+    <path d="M560,34 V40 M560,62 V68"/>
+  </g>
+  <path d="M560,40 H1200 V62 H560 Z" fill="#3fc1c9" fill-opacity="0.06"/>
+  <!-- beam clamp anchor -->
+  <g fill="none" stroke="#3fc1c9" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M832,72 L824,72 L824,30 L836,22"/>
+    <path d="M888,72 L896,72 L896,30 L884,22"/>
+    <path d="M824,58 H896"/>
+    <path d="M860,72 V86"/>
+    <ellipse cx="860" cy="96" rx="9" ry="11"/>
+  </g>
+  <!-- SRL housing -->
+  <g fill="none" stroke="#9be7ea" stroke-width="2.2">
+    <path d="M851,106 l9,8 l9,-8"/>
+    <rect x="832" y="114" width="56" height="62" rx="16"/>
+    <circle cx="860" cy="145" r="15" stroke="#3fc1c9"/>
+    <circle cx="860" cy="145" r="3" fill="#3fc1c9" stroke="none"/>
+  </g>
+  <!-- lifeline down to harness -->
+  <path d="M860,176 V262" fill="none" stroke="#3fc1c9" stroke-width="2.2"/>
+  <path d="M860,200 V262" fill="none" stroke="#9be7ea" stroke-opacity="0.35" stroke-width="7" stroke-linecap="round"/>
+  <!-- snap hook -->
+  <g fill="none" stroke="#9be7ea" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M860,262 v6 c-8,0 -10,8 -10,14 c0,9 8,14 14,14 c6,0 10,-5 10,-10 v-6"/>
+    <path d="M874,278 l-8,-6"/>
+  </g>
+  <!-- harness back: D-ring and crossed straps -->
+  <g fill="none" stroke="#3fc1c9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M847,300 h26 c0,14 -6,22 -13,22 c-7,0 -13,-8 -13,-22 z" stroke="#9be7ea"/>
+    <path d="M818,276 L902,372"/>
+    <path d="M902,276 L818,372"/>
+    <path d="M808,372 Q860,392 912,372"/>
+    <path d="M824,390 L812,412 M896,390 L908,412"/>
+  </g>
+  <rect x="852" y="314" width="16" height="14" rx="2" fill="#050d16" stroke="#3fc1c9" stroke-width="1.6"/>
+  <!-- clearance scale -->
+  <g stroke="#8fb4c8" stroke-opacity="0.45" stroke-width="1.2" fill="none">
+    <path d="M1010,72 V412"/>
+    <path d="M1000,72 H1020 M1004,140 H1016 M1004,208 H1016 M1004,276 H1016 M1004,344 H1016 M1000,412 H1020"/>
+  </g>
+  <g fill="none" stroke="#9be7ea" stroke-opacity="0.7" stroke-width="1.6" stroke-linecap="round">
+    <path d="M1040,80 V404 M1034,90 l6,-10 l6,10 M1034,394 l6,10 l6,-10"/>
+  </g>
+  <!-- working surface edge (leading edge) -->
+  <g fill="none" stroke="#8fb4c8" stroke-width="1.6" stroke-opacity="0.55">
+    <path d="M1070,248 H1200"/>
+    <path d="M1070,248 V262 H1200"/>
+  </g>
+  <rect x="1070" y="248" width="130" height="14" fill="url(#hglow)"/>
+  <g stroke="#f5b335" stroke-opacity="0.55" stroke-width="3">
+    <path d="M1080,248 l10,-14 M1104,248 l10,-14 M1128,248 l10,-14 M1152,248 l10,-14 M1176,248 l10,-14"/>
+  </g>
+</svg>
