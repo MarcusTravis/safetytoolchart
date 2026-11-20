@@ -1,0 +1,182 @@
+# Safety Tool Chart — full product list
+
+> 156 rows from 12 brands, grouped by chart. Data last checked 2026-11-16. Format: brand | model | type | standards | class | capacity lb | price | source.
+> Reference only — not training and not a substitute for the manufacturer’s instructions, a competent person, or OSHA/ANSI requirements. Inspect gear before each use, remove from service any equipment that has arrested a fall, and verify specs with the manufacturer.
+
+## Harnesses (33)
+
+Petzl | AVAO FAST International Version C071DB00 | Positioning / rope access harness | CE EN 361, CE EN 813, CE EN 358, ANSI Z359.11, ANSI Z459.1, CSA Z259.10, NFPA 2500 class 3 |  |  | $624.95 | https://www.petzl.com/us/en/professional/products/rope-access-harnesses/avao-fast-international-version/AVAO-FAST-version-internationa_PRO_a2m680000004L5XAAU.html
+Petzl | AVAO International Version C071CB00 | Positioning / rope access harness | CE EN 361, CE EN 813, CE EN 358, ANSI Z359.11, ANSI Z459.1, CSA Z259.10, NFPA 2500 class 3 |  |  | $$$$ est. | https://www.petzl.com/us/en/professional/products/rope-access-harnesses/avao-international-version/AVAO-version-internationale_PRO_a2m680000004L5SAAU.html
+Petzl | VOLT International Version C072CB00 | Tower / climbing harness | CE EN 361, CE EN 358, CE EN 813, ANSI Z359.11, CSA Z259.10 |  |  | $524.95 | https://www.petzl.com/us/en/professional/products/energy-networks-harnesses/volt-international-version/VOLT-version-internationale_PRO_a2mTx000004kyYLIAY.html
+Petzl | VOLT LIGHT International Version C072HA00 | Tower / climbing harness | CE EN 361, CE EN 358, ANSI Z359.11, CSA Z259.10 |  |  | $399.95 | https://www.petzl.com/us/en/professional/products/energy-networks-harnesses/volt-light-international-version/VOLT-LIGHT-version-internation_PRO_a2mTx000004kb3tIAA.html
+Petzl | NEWTON International Version C073BA01 | General industry harness | CE EN 361, ANSI Z359.11, CSA Z259.10 |  |  | $129.95 | https://www.petzl.com/us/en/professional/products/fall-arrest-harnesses/newton-international-version/NEWTON-version-internationale_PRO_a2m5I000000TNKpQAO.html
+Petzl | NEWTON FAST International Version C073DA01 | General industry harness | CE EN 361, ANSI Z359.11, CSA Z259.10 |  |  | $$ est. | https://www.petzl.com/us/en/professional/products/fall-arrest-harnesses/newton-fast-international-version/NEWTON-FAST-version-internatio_PRO_a2m5I000000TNKzQAO.html
+MSA | V-FIT 10194630 | General industry harness | ANSI Z359.11, CSA Z259.10, OSHA |  | 130-310 | $372.97 | https://www.magidglove.com/media/catalog/product/attachment/2/3/2300-245-mc_v-fit-technical-data-sheet.indd_1.pdf
+FallTech | Contractor 7015 | Construction / general industry harness | ANSI Z359.11-2014, OSHA 1926.502 and 1910.140, CSA Z259.10-2018 |  | 130-310 | $59.97 | https://falltech.com/Product/7015
+FallTech | Contractor+ 7016B | Construction / general industry harness | ANSI Z359.11-2021, CSA Z259.10-2018, OSHA 1926.502 and 1910.66 |  | 130-310 | $ est. | https://cdn.shopify.com/s/files/1/0844/7678/9054/files/7016B_Specification_Sheet.pdf
+FallTech | Advanced ComforTech Gel 7081BL | Construction harness | ANSI Z359.11-2014, OSHA 1926.502 and 1910.140, CSA Z259.10-2018 |  | 130-310 | $518.97 | https://falltech.com/Product/7081B
+FallTech | FT-Arc Flash 8077FDQCS | Arc-flash climbing harness | ANSI Z359.11-2021, OSHA 1926.502 and 1910.140, CSA Z259.10-2018, ASTM F887-20 |  | 130-310 | $870.97 | https://falltech.com/Product/8077FDQC
+FallTech | Arc Flash 7049 | Arc-flash harness | ANSI Z359.11-2014, ASTM F887, OSHA 1926.502 and 1910.66 |  | 130-310 | $247.97 | https://falltech.com/Product/7049
+FallTech | Carbon FT-One Tower 8048QCS | Tower / climbing harness | ANSI Z359.11-2021, OSHA 1926.502 and 1910.140, CSA Z259.10-2018 |  | 130-310 | $1001.97 | https://falltech.com/Product/8048QC
+MSA | V-FORM 10197196 | General industry harness | ANSI Z359.11, CSA Z259.10, OSHA |  | 400 | $61.97 | https://us.msasafety.com/pn/10197196?locale=en
+MSA | V-FORM+ 10206161 | Construction harness | ANSI Z359.11-2021, CSA Z259.10 |  | 400 | $197.97 | https://us.msasafety.com/pn/10206161?locale=en
+MSA | V-FORM 10197215 | Positioning harness | ANSI Z359.11, CSA Z259.10, OSHA |  | 400 | $91.97 | https://us.msasafety.com/pn/10197215?locale=en
+Guardian | Velocity 01700 | General industry harness | ANSI Z359.11-2021, OSHA 1926.502, OSHA 1910.140, CSA Z259.10-2018 |  | 130-310 | $37.97 | https://s3.us-west-2.amazonaws.com/catsy.672/1900151-B_Velocity+Harness+TDS.pdf
+Guardian | Cyclone 21045 | General industry / construction harness | OSHA 1910.140, OSHA 1926.502, ANSI Z359.11-2014 |  |  | $221.97 | https://www.guardianfall.com/product/cyclone-harness
+Guardian | Seraph 3711172 | Construction harness | ANSI Z359.11-2021, OSHA 1910.140 & 1926.502, CSA Z259.10-2018 |  | 130-310 | $160.97 | https://s3.us-west-2.amazonaws.com/catsy.672/1900120-C_SERAPH_Series+Harness+TDS.pdf
+Guardian | B7-Comfort 3740085 | Construction harness | ANSI Z359.11, OSHA 1910.140 & 1926.502, CSA Z259.10 |  | 130-310 | $508.97 | https://s3.us-west-2.amazonaws.com/catsy.672/1900001-Rev.D_B7+Comfort+Harness_TDS+%282%29.pdf
+Malta Dynamics | Warthog B2002 | Construction / general industry harness |  |  | 130-310 | $55.99 | https://maltadynamics.com/products/warthog-tongue-and-buckle
+Malta Dynamics | Warthog B2000 | Construction / general industry harness |  |  |  | $34.99 | https://maltadynamics.com/products/warthog-pass-thru
+3M DBI-SALA | Delta 1102000 | Construction / general industry harness | OSHA 1910.66, OSHA 1926.502, ANSI A10.32, ANSI Z359.1, ANSI Z359.4 |  | 420 | $208 | https://www.gmesupply.com/C-DS-1102000
+3M DBI-SALA | ExoFit X300 (formerly ExoFit NEX) 1113001 | General industry harness | ANSI Z359.11, OSHA 1910.140, OSHA 1926.502 |  |  | $660 | https://www.fallprotectionpros.com/products/dbi-sala-exofit-nex-universal
+3M DBI-SALA | Delta Arc Flash 1110750 | Arc-flash harness |  |  | 310 | $224 | https://www.fallprotectionpros.com/products/dbi-sala-delta-arc-flash-harness-dorsal-front-web-loop
+3M Protecta | Protecta Construction 1161308 | Construction harness | ANSI Z359.11, OSHA 1926.502 |  | 420 | $148 | https://www.fallprotectionpros.com/products/3m-protecta-construction-harness
+Honeywell Miller | AirCore AC-QC/UGN | General industry harness | OSHA 1926.502, ANSI A10.32, ANSI Z359.1, CSA Z259.10-12 |  | 400 | $453.97 | https://explore.honeywell.com/rs/510-REI-219/images/Miller%20AirCore%20Brochure_v4.pdf
+Honeywell Miller | Titan T4500/UAK | General industry harness |  |  | 400 | $91.97 | https://www.fallprotectionpros.com/products/miller-titan-full-body-harness-tongue-buckles
+Honeywell Miller | Revolution Nomex RKN-QC/UBK | Flame-resistant / hot-work harness |  |  |  | $671.97 | https://www.fallprotectionpros.com/products/miller-nomex-revolution-harness
+Frontline | American Construction 110CTB-ML-AM | Construction harness | ANSI Z359.11-2014, ANSI Z359.15-2014, OSHA 1910.140, OSHA 1926.502 |  | 310 | $180.97 | https://www.fallprotectionpros.com/products/frontline-american-construction-harness-with-aluminum-hardware
+Werner | LITEFIT H312002 | Construction harness | ANSI Z359.11-2021, OSHA 1910.140, OSHA 1926.502 |  | 425 | $$ est. | https://www.lawsonproducts.com/products/litefit-h312002-standard-back-d-ring-harness-m-l-1648491
+Werner | LITEFIT H362002 | Positioning / climbing harness | ANSI Z359.11-2021, OSHA 1910.140, OSHA 1926.502 |  | 425 | $$ est. | https://www.lawsonproducts.com/products/litefit-h362002-climbing-positioning-back-hip-and-front-d-rings-harness-m-l-1648530
+Werner | Welding High Heat H913002 | Welding / high-heat harness | ANSI Z359.11-2021, OSHA 1910.140, OSHA 1926.502 |  | 425 | $$$ est. | https://www.lawsonproducts.com/products/welding-high-heat-h913002-harness-m-l-1648544
+
+## Lanyards (20)
+
+FallTech | Internal Lanyard 8259 | Shock-absorbing lanyard, single leg | ANSI Z359.13-2013, OSHA 1926.502, OSHA 1910.66 | 6 ft FF | 130-310 | $ est. | https://www.falltech.com/product/8259/
+FallTech | Internal Lanyard 82593 | Shock-absorbing lanyard, single leg | ANSI Z359.13-2013, OSHA 1926.502, OSHA 1910.66 | 6 ft FF | 130-310 | $ est. | https://www.falltech.com/product/82593/
+FallTech | ElasTech 8240 | Shock-absorbing lanyard, single leg | ANSI Z359.13-2013, OSHA 1926.502, OSHA 1910.66 | 6 ft FF | 130-310 | $ est. | https://www.falltech.com/product/8240/
+FallTech | Ironman 8247BY | Shock-absorbing lanyard, twin leg | ANSI Z359.13-2013, OSHA 1926.502, OSHA 1910.66 | 6 ft FF / 12 ft FF | 130-425 | $$ est. | https://www.falltech.com/product/8247by/
+FallTech | Leading Edge 8354LEYC2D | Leading-edge lanyard, twin leg | OSHA 1926.502, OSHA 1910.66 | 12 ft FF | 130-425 | $$$ est. | https://www.falltech.com/product/8354leyc2d/
+FallTech | Restraint 8209 | Restraint lanyard | ANSI Z359.3-2019, OSHA 1926.502, OSHA 1910.66, CSA Z259.11-2017 |  | 130-425 | $ est. | https://www.falltech.com/product/8209/
+FallTech | Tower Climber 8165B65 | Positioning lanyard | ANSI Z359.3-2017, OSHA 1926.502, OSHA 1910.66 |  | 130-425 | $$ est. | https://www.falltech.com/product/8165b/
+Petzl | Absorbica-Y L014AB01 | Shock-absorbing lanyard, twin leg | ANSI Z359.13, CSA Z259.11-17, CE EN 355 | 12 ft FF | 132-309 | $139.95 | https://www.petzl.com/US/en/Professional/Lanyards-and-energy-absorbers/ABSORBICA-Y-150
+Petzl | Grillon L052AA00 | Positioning lanyard | ANSI Z359.3, CSA Z259.11, CE EN 358 |  |  | $279.95 | https://www.petzl.com/us/en/professional/products/positioning-lanyards/grillon/GRILLON-longe-reglable_PRO_a2mw0000001Tn1AAAS.html
+3M DBI-SALA | ShockWave2 1244409 | Shock-absorbing lanyard, twin leg | OSHA 1910.66, OSHA 1926.502, ANSI A10.32, ANSI Z359.13 |  | 310 | $564.41 | https://gravitec.com/product/3m-dbi-sala-shockwave2-100-tie-off-shock-absorbing-lanyard-3
+3M DBI-SALA | Force2 1246161 | Shock-absorbing lanyard, twin leg | OSHA 1910.66, OSHA 1926.502, ANSI A10.32, ANSI Z359.13 | 12 ft FF | 130-420 | $315.13 | https://store.fallprotect.com/products/3m%E2%84%A2-dbi-sala%C2%AE-force2%E2%84%A2-100-tie-off-shock-absorbing-lanyard
+3M DBI-SALA | Force2 (EZ-Stop F2) 1246167 | Shock-absorbing lanyard, single leg | OSHA 1910.66, OSHA 1926.502, ANSI A10.32, ANSI Z359.13 | 12 ft FF | 130-420 | $243.74 | https://store.fallprotect.com/products/3m%E2%84%A2-dbi-sala%C2%AE-ez-stop%E2%84%A2-f2-web-shock-absorbing-lanyard-6-ft
+3M Protecta | 100% Tie-Off Stretch Web 1342101 | Shock-absorbing lanyard, twin leg |  |  |  | $135.52 | https://store.fallprotect.com/products/3m%E2%84%A2-protecta%C2%AE-100-tie-off-stretch-web-shock-absorbing-lanyard-6-ft
+MSA | V-Series 10188103 | Shock-absorbing lanyard, single leg | CSA Z259.11-17, OSHA |  | 310 | $98.95 | https://www.globalindustrial.com/p/10188103-standard-single-leg-adjustable-lanyard-6-36cl-large-snaphooks
+Honeywell Miller | Manyard 219WRS-Z7/6FTYL | Shock-absorbing lanyard, single leg | OSHA 1926.502, OSHA 1910.66, ANSI A10.32, ANSI Z359-2007, CSA Z259.11 |  | 310 | $281.77 | https://www.esafetysupplies.com/products/honeywell-miller-manyard-6-polyester-shock-absorbing-lanyard-1
+Guardian | External Shock Lanyard 01220 | Shock-absorbing lanyard, single leg |  |  |  | $67.06 | https://acmetools.com/guardian-fall-protection-external-shock-lanyard-01220/672421012209.html
+Guardian | Non-Shock Absorbing Lanyard 01270 | Restraint lanyard |  |  |  | $68.04 | https://www.energysafetysupply.com/collections/tool-tethers/products/01270-non-shock-absorbing-lanyard-6-dual-snaphooks
+Werner | DeCoil C311102 | Shock-absorbing lanyard, single leg | ANSI Z359.13-2013, OSHA 29 CFR 1910.140/1926.502 |  | 310 | $$ est. | https://www.lawsonproducts.com/products/c311102-6ft-decoil-adjustable-single-leg-lanyard-dcell-shock-pack-snap-hook-1in-web-1648284
+Werner | DeCoil C311120 | Shock-absorbing lanyard, single leg | ANSI Z359.13-2013, OSHA 29 CFR 1910.66/1926.502 | 12 ft FF | 400 | $$ est. | https://www.lawsonproducts.com/products/c311120-12ft-free-fall-lanyard-400lb-6ft-free-fall-lanyard-snap-hooks-1648287
+Werner | Positioning C111103 | Positioning lanyard | ANSI Z359.3-2019, OSHA 29 CFR 1910/1926 |  | 310 | $ est. | https://www.lawsonproducts.com/products/c111103-3ft-web-positioning-lanyard-1in-web-2-snap-hook-1648272
+
+## SRLs (32)
+
+FallTech | FT-X Web 84709SP1 | SRL, personal, web, single | ANSI Z359.14-2021, OSHA 1926.502 and 1910.66 | Class 1 (SRL-P) | 130-420 | $329.97 | https://www.falltech.com/product/84709sp1/
+FallTech | FT-X Web 84709TP1 | SRL, personal, web, twin | ANSI Z359.14-2021, OSHA 1926.502 and 1910.66 | Class 1 (SRL-P) |  | $621.97 | https://www.falltech.com/product/84709tp1/
+FallTech | CTR Class 1 SRL 723760 | SRL, cable | ANSI Z359.14-2021, OSHA 1926.502 and 1910.66, CSA Z259.2.2-2017 | Class 1 | 130-310 | $835.97 | https://www.falltech.com/product/723760/
+FallTech | FT-R Leading Edge 721530LEC | SRL-LE, cable | ANSI Z359.14-2021, OSHA 1926.502 and 1910.66, CSA Z259.2.2-2017(R2022) | Class 2 (SRL-LE) | 130-420 | $807.97 | https://www.falltech.com/product/721530lec/
+FallTech | FT-X EdgeCore 84108SP1 | SRL-LE, personal, cable | ANSI Z359.14-2021, OSHA 1926.502 and 1910.66, CSA Z259.2.2-2017 | Class 2 (SRL-P) | 130-420 | $487.97 | https://www.falltech.com/product/84108sp1/
+FallTech | FT-R SRL-R 721560R | SRL-R, cable, 3-way | ANSI Z359.14-2021, OSHA 1910.140, OSHA 1926.502 | Class 1 (SRL-R) | 310 | $1968.97 | https://www.falltech.com/product/721560r/
+FallTech | DuraTech 82706TB1 | SRL, personal, web, twin | ANSI Z359.14-2014, OSHA 1926.502 and 1910.66 | Class B | 130-310 | $476.97 | https://www.falltech.com/product/82706tb1/
+Honeywell Miller | TurboLite+ MTL-OHW1-01/6FT | SRL, personal, web, single | OSHA, ANSI Z359.14-2021, CSA | Class 1 | 420 | $187.97 | https://assets.testequity.com/te1/Documents/pdf/Miller/MILLERBYPIP_MTL-OHW1-01-6FT_Personal-Fall-Limiter_DataSheet_01_0626.pdf
+Honeywell Miller | TurboLite MTL-OHW2-28/6FT | SRL, personal, web, twin | OSHA, ANSI Z359.14-2021 | Class 1 | 420 | $374.97 | https://www.fallprotectionpros.com/products/miller-turbolite-twin-fall-limiter-with-rebar-hooks-6-ft
+Honeywell Miller | Falcon+ Edge MFS-LEP1-02/30FT | SRL-LE, cable | OSHA 1926.502, ANSI Z359.14-2021, CSA Z259.2.2-2017 |  | 130-420 | $786.97 | https://argo.webstaurantstore.com/documents/specsheets/falcon_edge_srl_spec.pdf
+3M Protecta | Rebel Leading Edge 3590046 | SRL-LE, cable | OSHA, ANSI Z359.14 |  |  | $843 | https://www.fallprotectionpros.com/products/protecta-rebel-self-retracting-lifeline-leading-edge-20-ft
+3M Protecta | Rebel 3590038 | SRL, cable | OSHA 1926, ANSI Z359.14 |  |  | $1123 | https://www.fallprotectionpros.com/products/protecta-rebel-retractable-lifeline-50ft
+3M DBI-SALA | Nano-Lok Edge 3500288 | SRL-LE, personal, cable | OSHA |  |  | $563 | https://www.fallprotectionpros.com/products/dbi-sala-nano-lock-edge-srl
+3M Protecta | Rebel Web 3100506 | SRL, personal, web, single | OSHA |  | 310 | $206 | https://www.fallprotectionpros.com/products/protecta-rebel-web-personal-srl-6-ft
+3M DBI-SALA | Nano-Lok 3100550 | SRL, personal, web, twin | OSHA |  | 420 | $722 | https://www.fallprotectionpros.com/products/dbi-sala-nano-lok-dual-leg-self-retracting-lifeline
+3M DBI-SALA | Sealed-Blok RSQ 3400165 | SRL-R, cable | OSHA |  |  | $7113 | https://www.fallprotectionpros.com/products/dbi-salasealed-blok-self-retracting-lifeline-rsq-retrieval-stanless-steel-50-ft
+MSA | V-EDGE 63410-00A | SRL-LE, cable | OSHA, ANSI Z359.14-2021 | Class 2 | 400 | $1536.97 | https://www.fallprotectionpros.com/products/msa-v-edge-leading-edge-self-retracting-lifeline-30-ft
+MSA | V-SHOCK VSOHW-031-NB-A | SRL, personal, web, single | OSHA, ANSI Z359.14-2021 |  | 400 | $264.97 | https://www.fallprotectionpros.com/products/msa-v-shock-web-personal-fall-limiter-carabiner-10ft
+Guardian | CR5 1400198 | SRL, personal, web, single | OSHA | Class 1 |  | $156.97 | https://www.fallprotectionpros.com/products/guardian-cr5-class-1-personal-self-retracting-lifeline-6-ft
+Guardian | CR3-Edge 4200202 | SRL-LE, personal, cable | OSHA | Class 2 |  | $387.97 | https://www.fallprotectionpros.com/products/guardian-cr3-edge-class-2-self-retracting-lifeline-rebar-hook-8-ft
+Guardian | Halo 10910 | SRL, cable | OSHA | Class 1 |  | $611.97 | https://www.fallprotectionpros.com/products/guardian-halo-cable-retractable-lifeline-20ft
+Guardian | Halo Big Block 10918 | SRL, cable | OSHA |  |  | $1014.97 | https://www.fallprotectionpros.com/products/guardian-halo-big-block-cable-retractable-lifeline-65ft
+Guardian | 3-Way Rescue 10974 | SRL-R, cable, 3-way | Z359.1-2007 |  | 310 | $2307.97 | https://www.fallprotectionpros.com/products/guardian-3-way-rescue-retractable
+Frontline | Web SRL RPW061S | SRL, personal, web, single | OSHA |  |  | $159.97 | https://www.fallprotectionpros.com/products/frontline-web-srl-6-ft
+Frontline | RPG Cable RPG100 | SRL, cable | OSHA |  |  | $986.97 | https://www.fallprotectionpros.com/products/frontline-rpg-cable-srl-100-ft
+Frontline | Leading Edge Cable RPG50LE | SRL-LE, cable | OSHA |  | 310 | $606.97 | https://www.fallprotectionpros.com/products/frontline-leading-edge-cable-single-leg-srl-50-ft
+Safewaze | Latitude Edge 023-5350 | SRL-LE, personal, cable | OSHA | Class 2 (SRL-P) |  | $343.97 | https://www.fallprotectionpros.com/products/safewaze-latitude-edge-leading-edge-retractable-8-ft
+Safewaze | Latitude Web 019-5044 | SRL, personal, web, single | OSHA | Class 1 |  | $139.97 | https://www.fallprotectionpros.com/products/safewaze-latitude-web-personal-srd-6ft
+Safewaze | Northstar Classic FS-EX10-100-G | SRL, cable | OSHA 1926-502, ANSI Z359.14-2021, ANSI A10.32-2012 |  | 310 | $1394.97 | https://www.fallprotectionpros.com/products/safewaze-northstar-classic-cable-retractable-100-ft-1
+Werner | Baseline R530007 | SRL, personal, web, single | ANSI Z359.14-2021 | Class 1 | 400 | $$$ est. | https://www.lawsonproducts.com/products/r530007-7ft-baseline-web-self-retracting-lifeline-1648700
+Werner | Baseline R531007 | SRL, personal, web, twin | ANSI Z359.14-2021 | Class 1 | 400 | $$$$ est. | https://www.lawsonproducts.com/products/r531007-7ft-baseline-twin-leg-web-self-retracting-lifeline-1648708
+Werner | Max Patrol R410020 | SRL, personal, cable, single |  |  | 400 | $$$ est. | https://www.lawsonproducts.com/products/r410020-20ft-max-patrol-self-retracting-lifeline-galvanized-cable-1648665
+
+## Anchors (29)
+
+Malta Dynamics | Roof anchors A6303 | Roof anchor | OSHA 1910, OSHA 1926 Subpart M, ANSI Z359.18-2017 Type A, ANSI A10.32-12 |  | 130-310 | $19.99 | https://maltadynamics.com/products/reusable-roof-anchor
+Malta Dynamics | Roof anchors A6318 | Roof anchor (disposable) | OSHA 1926.502, OSHA 1910.66, ANSI Z359.18-2017 |  | 130-310 | $6.49 | https://maltadynamics.com/products/single-use-roof-anchor
+Malta Dynamics | Roof anchors A6308 | Roof anchor (permanent) | ANSI, OSHA |  |  | $17.99 | https://maltadynamics.com/products/permanent-roof-anchor
+Malta Dynamics | Roof anchors A6320 | Roof anchor (permanent) | ANSI Z359.18-2017, OSHA 1926 Subpart M, OSHA 1910 |  |  | $235.99 | https://maltadynamics.com/products/roof-anchor-standard
+Malta Dynamics | Parapet anchor A6316 | Parapet anchor |  |  |  | $378.99 | https://maltadynamics.com/products/parapet-anchor
+Malta Dynamics | Beam anchors A6101 | Beam trolley |  |  |  | $532.49 | https://maltadynamics.com/products/beam-trolley
+Malta Dynamics | Beam anchors A6103 | Beam trolley | OSHA 1926.502 |  |  | $185.49 | https://maltadynamics.com/products/beam-walker-super-slider
+Malta Dynamics | Beam anchors A6105 | Beam clamp |  |  |  | $253.49 | https://maltadynamics.com/products/vertical-fixed-beam-anchor
+Malta Dynamics | Anchor straps A6350 | Cross-arm strap |  |  |  | $22.99 | https://maltadynamics.com/products/cross-arm-strap
+Malta Dynamics | Anchors A7360 | Weld-on / bolt-on anchor |  |  |  | $72.99 | https://maltadynamics.com/products/5k-swivel-anchor
+Malta Dynamics | Anchor straps A6400 | Concrete anchor strap |  |  |  | $6.99 | https://maltadynamics.com/products/concrete-anchor-strap
+Malta Dynamics | Anchors A8000 | Wood truss anchor |  |  |  | $88.99 | https://maltadynamics.com/products/truss-anchor
+Guardian | Beamer 00215 | Beam trolley | OSHA 1910.140, OSHA 1926.502, ANSI Z359.18-2017 |  |  | $741.18 | https://guardianfall.com/product/00215
+Guardian | Cross arm strap 01640 | Cross-arm strap | OSHA 1910.140, OSHA 1926.502, ANSI Z359.18-2017 |  | 130-420 | $23.3 | https://bigrocksupply.com/store/p/6500-Guardian-01640-3-ft-Cross-Arm-Strap-Anchorage-Connector.aspx
+Guardian | Cross arm strap 01620 | Cross-arm strap | OSHA 1910, OSHA 1926.502, ANSI Z359.1/18, ANSI A10.32 |  | 130-420 | $23.5 | https://bigrocksupply.com/Guardian-01620-6-ft-Cross-Arm-Strap-Anchor.htm
+3M DBI-SALA | Concrete anchors 2104560 | Concrete D-bolt | OSHA 1910.140, OSHA 1926.502 |  | 310 | $165.99 | https://dakotariggers.com/products/3m%E2%84%A2-dbi-sala%C2%AE-concrete-d-ring-anchor
+3M DBI-SALA | Roof anchors 2103676 | Roof anchor | OSHA 1910.140, OSHA 1926.502 |  |  | $56.5 | https://dakotariggers.com/products/3m%E2%84%A2-dbi-sala%C2%AE-reusable-hinged-roof-anchor-for-wood-metal-with-fastener-kit
+3M DBI-SALA | Beam anchors 2108406 | Beam clamp |  |  |  | $648.96 | https://dakotariggers.com/products/3m%E2%84%A2-dbi-sala%C2%AE-fixed-beam-anchor
+3M DBI-SALA | Extension anchors 1231135 | Tie-off adaptor / extension |  |  |  | $91.62 | https://dakotariggers.com/products/3m%E2%84%A2-dbi-sala%C2%AE-web-d-ring-extension-anchor
+3M DBI-SALA | Concrete anchors 2100050 | Concrete anchor strap | ANSI Z359.18, OSHA 1910.140, OSHA 1926.502 |  |  | $15.99 | https://dakotariggers.com/products/pass-through-concrete-strap-anchor
+3M Protecta | Pro 2190057 | Concrete anchor strap | OSHA 1910.140, OSHA 1926.502 |  | 420 | $337.86 | https://dakotariggers.com/products/3m%E2%84%A2-protecta%C2%AE-pro%E2%84%A2-concrete-anchor-strap-25-ea-pack
+FallTech | Beam anchors 7533 | Beam clamp | ANSI Z359.18-2017 |  |  | $316.97 | https://fallprotectionpros.com/products/falltech-trailing-beam-clamp-anchor-with-dual-clamp-adjustment
+FallTech | BeamLock 7540A14 | Beam clamp | ANSI Z359.18-2017 |  |  | $356.97 | https://fallprotectionpros.com/products/falltech-beamlock-dual-adjustment-anchor
+FallTech | Beam trolleys 7712 | Beam trolley | ANSI Z359.18-2017 |  |  | $743.97 | https://fallprotectionpros.com/products/falltech-aluminum-beam-trolley-anchor-18
+FallTech | Arc flash 72493FT | Cross-arm strap / choker | ANSI Z359.18-2017, ASTM F887 |  |  | $107.97 | https://fallprotectionpros.com/products/falltech-arc-flash-cinch-loop-choker-anchor-3-ft
+FallTech | Roof anchors 7420 | Roof anchor | OSHA 1926.502, OSHA 1910.140, ANSI Z359.18-2017 Type A |  |  | $206.97 | https://fallprotectionpros.com/products/falltech-rotating-d-ring-anchor
+Honeywell Miller | Roof anchors RA45 | Roof anchor (permanent) |  |  |  | $97.97 | https://fallprotectionpros.com/products/miller-claw-permanent-roof-anchor
+Honeywell Miller | Shadow 8814-24 | Beam trolley |  |  |  | $810.97 | https://fallprotectionpros.com/products/miller-shadow-beam-anchor-12-24
+Honeywell Miller | D-bolt 416 | Steel D-bolt anchor |  |  |  | $109.97 | https://fallprotectionpros.com/products/miller-xenon-5-8-in-d-bolt-anchor-w-hardware
+
+## Connectors (19)
+
+FallTech | Carabiner 8445 | Carabiner | ANSI Z359.12-2009, OSHA 1926.502, OSHA 1910.66 |  | 130-425 | $ est. | https://www.falltech.com/product/8445/
+Petzl | Am'D M34A TL | Carabiner | CE EN 362, CE EN 12275 type B, NFPA 2500 Technical Use |  |  | $30.95 | https://www.petzl.com/us/en/professional/products/aluminum-carabiners/amd/Am-D-PRO_PRO_a2mw0000000QDp0AAG.html
+Petzl | William M36A TL | Carabiner | CE EN 362, CE EN 12275 type B, NFPA 2500 Technical Use |  |  | $33.95 | https://www.petzl.com/us/en/professional/products/aluminum-carabiners/william/WILLIAM-PRO_PRO_a2mw0000000QDvIAAW.html
+Petzl | Vulcan M073BA00 | Carabiner | CE EN 362, NFPA 2500 General Use, GB/T 23469 B |  |  | $42.95 | https://www.petzl.com/us/en/professional/products/steel-carabiners/vulcan/VULCAN_PRO_a2mw0000001TdSCAA0.html
+Petzl | Oxan M72A TL | Carabiner | CE EN 362, NFPA 2500 Technical Use, GB/T 23469 B |  |  | $25.95 | https://www.petzl.com/us/en/professional/products/steel-carabiners/oxan/OXAN_PRO_a2mw0000000BtvzAAC.html
+Petzl | Eashook Open M043AA00 | Snap hook | CE EN 362, CE EN 12275 |  |  | $64.95 | https://www.petzl.com/us/en/professional/products/lanyard-end-connectors/eashook-open/EASHOOK-OPEN_PRO_a2mw0000001TdTFAA0.html
+FallTech | Carabiner 8450 | Carabiner | ANSI Z359.12-2009, OSHA 1926.502, OSHA 1910.66, CSA Z259.12-2016 |  | 130-425 | $ est. | https://www.falltech.com/product/8450/
+FallTech | Carabiner 8466A | Carabiner | ANSI Z359.12-2009, OSHA 1926.502, OSHA 1910.66 |  | 130-425 | $ est. | https://www.falltech.com/product/8466a/
+Werner | Carabiner A100304 | Carabiner | ANSI Z359.12-2019, OSHA 1910/1926 |  |  | $ est. | https://www.lawsonproducts.com/products/a100304-3-4in-gate-opening-aluminum-self-locking-carabiner-3600lb-gate-1648155
+Werner | Carabiner A100301 | Carabiner |  |  |  | $40.8 | https://www.heydensupply.com/mpn/a100301
+Werner | Carabiner A100303 | Carabiner |  |  |  | $ est. | https://www.lawsonproducts.com/products/a100303-2in-gate-opening-steel-self-locking-carabiner-3600lb-gate-1648154
+Guardian | Carabiner 01837 | Carabiner |  |  |  | $17.99 | https://www.mceachernandhutchins.com/p/0f5aa0fc-357a-4aa8-961c-0e75bdb865d5/9063140
+3M DBI-SALA | SafLok 2000112 | Carabiner |  |  |  | $101 | https://www.fallprotectionpros.com/products/dbi-sala-saflock-steel-carabiner-11-16
+3M DBI-SALA | SafLok 2000117 | Carabiner |  |  |  | $104 | https://www.fallprotectionpros.com/products/dbi-sala-saflok-steel-carabiner-pin-11-16-in-gate-opening
+3M DBI-SALA | SafLok 2000301 | Carabiner | ANSI Z359.1-2007 |  |  | $682 | https://www.fallprotectionpros.com/products/dbi-sala-saflok-triple-action-stainless-steel-carabiner-2-in-gate-opening
+Honeywell Miller | AutoLock 17D-1 | Carabiner | OSHA 1926.502, ANSI Z359-2007, CSA Z259.12 |  | 400 | $59.97 | https://cdn.shopify.com/s/files/1/2519/5508/files/miller-17d-carabiner-spec-sheet.pdf
+Honeywell Miller | AutoLock 17D-2 | Carabiner | ANSI Z359-2007 |  |  | $107.97 | https://www.fallprotectionpros.com/products/miller-aluminum-twist-lock-carabiner
+MSA | Carabiner 10089207 | Carabiner | OSHA |  |  | $53.97 | https://www.fallprotectionpros.com/products/msa-steel-carabiner-1in-opening
+Frontline | Carabiner CSQ120 | Carabiner | OSHA 1910.66, OSHA 1926.502 |  |  | $ est. | https://www.fallprotectionpros.com/products/frontline-large-steel-quarter-turn-locking-carabiner-hook
+
+## Lifelines (13)
+
+Petzl | ASAP B071BB00 | Rope grab | CE EN 12841 type A, CE EN 353-2, ANSI Z359.15 | ANSI Z359.15 |  | $$$ est. | https://www.petzl.com/US/en/Professional/Mobile-fall-arresters/ASAP-LOCK
+Malta Dynamics | Temporary HLL MDK-0060-C | Horizontal lifeline kit |  |  |  | $1949.99 | https://maltadynamics.com/products/adjustable-temporary-horizontal-lifeline-system
+Malta Dynamics | Vertical lifeline assemblies C7050 | Vertical lifeline assembly |  |  |  | $82.99 | https://maltadynamics.com/products/vertical-lifeline-assembly
+Malta Dynamics | Rope grabs C7054 | Rope grab |  |  |  | $42.99 | https://maltadynamics.com/products/fall-arrestor-rope-grab
+3M DBI-SALA | Rope lifelines 1202754 | Vertical lifeline assembly | ANSI Z359.1, OSHA 1910.66, OSHA 1926.502 |  | 310 | $130.32 | https://dakotariggers.com/products/3m%E2%84%A2-rope-lifeline-with-snap-hook-5-8-in-polyester-and-polypropylene-blend
+3M DBI-SALA | Sayfline 7600506 | Horizontal lifeline kit | OSHA 1910.66, OSHA 1926.502 |  | 310 | $$$$ est. | https://www.safetycompany.com/fall-protection/horizontal-lifeline-systems/dbi-sala-7600506-sayfline-synthetic-horizontal-lifeline-system/
+FallTech | SteelGrip 60310012 | Horizontal lifeline kit |  |  | 310 | $2087.97 | https://fallprotectionpros.com/products/falltech-steelgrip-cable-horizontal-lifeline-system-4-12-in-100-ft
+Honeywell Miller | TechLine HLLR2-Z7/30FT | Horizontal lifeline kit |  |  |  | $925.97 | https://fallprotectionpros.com/products/miller-techline-horizontal-lifeline-system-30
+Super Anchor | HLL rope kits 1325-60 | Horizontal lifeline kit | ANSI Z359.1-07, OSHA 1926.502 |  |  | $795 | https://fallprotectionpros.com/products/super-anchor-horizontal-lifeline-rope-kit-60-ft
+MSA | Temporary HLL 10219292 | Horizontal lifeline kit |  |  |  | $1132.97 | https://fallprotectionpros.com/products/msa-temporary-rope-horizontal-lifeline-for-2-workers-60-ft
+Honeywell Miller | Vertical lifelines 300L-Z7/25FTBL | Vertical lifeline assembly |  |  |  | $108.97 | https://fallprotectionpros.com/products/miller-vertical-lifeline-25ft
+Super Anchor | Maxima 4083-30 | Vertical lifeline assembly |  |  |  | $64 | https://fallprotectionpros.com/products/super-anchor-maxima-vertical-lifeline-30-ft
+Honeywell Miller | Rope grabs 8175SLS/2FTYLC | Rope grab |  |  |  | $386.97 | https://fallprotectionpros.com/products/miller-ss-trailing-rope-grab
+
+## Rescue & descent (10)
+
+Petzl | I'D D020AA00 | Rescue / descent device | CE EN 341 type 2 class A, CE EN 12841 type C, CE EN 15151-1, ANSI Z359.9, ANSI Z459.1, NFPA 2500 General Use, NFPA 2500 Technical Use | ANSI Z359.9 | 551 | $384.95 | https://www.petzl.com/US/en/Professional/Descenders/I-D-S
+Petzl | I'D D020BA00 | Rescue / descent device | EN 341 type 2 class A, CE EN 12841 type C, ANSI Z359.9/3, NFPA 2500 General Use | ANSI Z359.9/3 | 617 | $384.95 | https://www.petzl.com/US/en/Professional/Descenders/I-D-L
+Petzl | I'D D020CA00 | Rescue / descent device | EN 341 type 2 class A, CE EN 12841 type C, ANSI Z459.1, ANSI Z359.9/3, NFPA 2500 Technical Use | ANSI Z359.9/3 | 441 | $409.95 | https://www.petzl.com/US/en/Professional/Descenders/I-D-EVAC
+Malta Dynamics | Trauma relief R0005-G2 | Suspension trauma strap |  |  |  | $21.99 | https://maltadynamics.com/products/deluxe-suspension-trauma-relief-strap
+Malta Dynamics | Confined space R0006 | Rescue tripod |  |  |  | $1899.99 | https://maltadynamics.com/products/tripod
+Malta Dynamics | Confined space R0007 | Retrieval winch |  |  | 130-310 | $1799.99 | https://maltadynamics.com/products/winch
+3M DBI-SALA | Rollgliss R550 3327050 | Rescue / descent device |  |  | 620 | $1555.63 | https://dakotariggers.com/products/r550
+3M DBI-SALA | Confined space 8301080 | Rescue tripod with winch | OSHA 1910.140, OSHA 1926.502 |  | 350 | $5084.18 | https://dakotariggers.com/products/3m%E2%84%A2-dbi-sala%C2%AE-confined-space-aluminum-tripod-with-salalift%E2%84%A2-ii-winch
+FallTech | Rescue and descent 6814300K | Rescue / descent device | ANSI Z359.4-2013 |  |  | $3687.97 | https://fallprotectionpros.com/products/falltech-rescue-and-descent-crane-kit-with-storage-bag-300-ft
+Honeywell Miller | Tripods 51X/9FT | Rescue tripod |  |  |  | $2039.97 | https://fallprotectionpros.com/products/miller-aluminum-tripod-9ft
+

@@ -2,6 +2,10 @@
 
 All notable changes to Safety Tool Chart, by month.
 
+## November 2026 — SEO and AI-search pass (Nov 20, 2026)
+
+- SEO and AI-search pass: llms.txt, structured data (Dataset, BreadcrumbList, FAQPage), FAQ on Basics, plain-English intros, robots.txt crawler rules, IndexNow.
+
 ## November 2026 — Initial release (Nov 16, 2026)
 
 - Initial release with seven catalogs: Harnesses 33, Lanyards 20, SRLs 32, Anchors 29, Connectors 19, Lifelines 13, Rescue & descent 10 — 156 rows in all.

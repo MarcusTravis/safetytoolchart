@@ -1,0 +1,47 @@
+# Safety Tool Chart
+
+> Free, ad-free reference comparing fall protection gear across brands: harnesses, lanyards, SRLs, anchors, connectors, lifelines and rescue equipment, with a source link on every row.
+
+Safety Tool Chart lines up the specs that matter (class, capacity, length, connectors, gate strength, standards, price) for 156 products from 12 brands, and links each row to the manufacturer or retailer page its facts came from. There are no ads and no affiliate links.
+
+## Charts
+
+- [Harnesses](https://safetytoolchart.pages.dev/harnesses): 33 rows from 10 brands. Construction, general-industry, tower and positioning harnesses by class, D-rings, capacity and size.
+- [Lanyards](https://safetytoolchart.pages.dev/lanyards): 20 rows from 8 brands. Single and twin-leg shock-absorbing lanyards, 6 ft and 12 ft free fall, positioning and restraint.
+- [SRLs](https://safetytoolchart.pages.dev/srls): 32 rows from 9 brands. Personal web and cable SRLs, single and twin, Class 1 / Class 2 and leading-edge models.
+- [Anchors](https://safetytoolchart.pages.dev/anchors): 29 rows from 6 brands. Beam clamps, cross-arm straps, roof anchors, concrete D-bolts and bolt-on anchors.
+- [Connectors](https://safetytoolchart.pages.dev/connectors): 19 rows from 8 brands. Locking snap hooks, rebar hooks and carabiners compared by gate strength and material.
+- [Lifelines](https://safetytoolchart.pages.dev/lifelines): 13 rows from 7 brands. Temporary horizontal lifeline kits, rope grabs and vertical lifelines.
+- [Rescue & descent](https://safetytoolchart.pages.dev/rescue): 10 rows from 5 brands. Descent and rescue devices, retrieval systems and suspension trauma straps.
+
+## Guides and tools
+
+- [Home](https://safetytoolchart.pages.dev/): site search across every product and an overview of all charts
+- [Basics and standards](https://safetytoolchart.pages.dev/basics): plain-language OSHA 1926.502 / 1910.140 limits, ANSI/ASSP Z359 and CSA Z259 overview, fall clearance, swing falls, rescue, inspection, and an FAQ
+- [Compare](https://safetytoolchart.pages.dev/compare): put up to four products from any chart side by side
+- [Updates](https://safetytoolchart.pages.dev/updates): changelog
+
+## Totals
+
+- 156 product rows across 7 charts, 12 brands in all.
+- 129 rows show a live retailer price; 27 show an editorial price band.
+
+## Sources policy
+
+- Facts come from official manufacturer pages, spec sheets and instruction manuals, plus public retailer listings for the exact part number.
+- Every row links its source. Notes are written in our own words. Nothing is guessed: a blank cell means the value was not published or not found.
+- Price rule: Price = lowest in-stock price for a new unit of that exact part number seen on a public US retailer or manufacturer-store listing (seller named and linked), checked on the date shown. No affiliate links. If no live price was found, a $ band is shown as an editorial estimate.
+- Editorial bands: $ under $100 · $$ $100–$250 · $$$ $250–$600 · $$$$ $600–$1,500 · $$$$$ over $1,500.
+
+## Safety
+
+Reference only — not training and not a substitute for the manufacturer’s instructions, a competent person, or OSHA/ANSI requirements. Inspect gear before each use, remove from service any equipment that has arrested a fall, and verify specs with the manufacturer.
+
+## Data freshness
+
+Data last checked 2026-11-16.
+
+## Optional
+
+- [Full product list as plain text](https://safetytoolchart.pages.dev/llms-full.txt): one line per row, grouped by chart
+

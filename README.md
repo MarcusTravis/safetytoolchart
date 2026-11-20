@@ -21,7 +21,7 @@ python3 _build/generate.py
 python3 _build/check.py
 ```
 
-The site URL is set once as `CANON` in `_build/generate.py` (canonicals, sitemap, Open Graph). `ASSET_V` there cache-busts the CSS/JS. `CF_TOKEN` holds the Cloudflare Web Analytics token; while it is `REPLACE_ME` the beacon is left out. Missing, empty, or unparseable JSON files render as “No rows yet”. `check.py` validates every row and the generated HTML and exits non-zero on errors. For testing, `WP_DATA_DIR` and `WP_OUT_DIR` point the generator (and `WP_DATA_DIR` the checker) at other folders.
+The site URL is set once as `CANON` in `_build/generate.py` (canonicals, sitemap, Open Graph). `ASSET_V` there cache-busts the CSS/JS. `SITE_UPDATED_ISO` is the sitemap `lastmod` (bump it when the site changes); `CHECKED_ISO` is the data-checked date. The build also writes `robots.txt` (explicit AI-crawler groups), `sitemap.xml`, `llms.txt` and `llms-full.txt` (row counts computed from the data; the full file is only written while it stays under 40 KB), the IndexNow key file (`INDEXNOW_KEY`), and JSON-LD (Dataset, BreadcrumbList, FAQPage) on each page. Chart intros are the `answer` field in `sections.json`. `CF_TOKEN` holds the Cloudflare Web Analytics token; while it is `REPLACE_ME` the beacon is left out. Missing, empty, or unparseable JSON files render as “No rows yet”. `check.py` validates every row and the generated HTML and exits non-zero on errors. For testing, `WP_DATA_DIR` and `WP_OUT_DIR` point the generator (and `WP_DATA_DIR` the checker) at other folders.
 
 ## Data rules
 

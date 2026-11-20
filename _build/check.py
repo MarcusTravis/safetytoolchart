@@ -7,7 +7,7 @@
 Prints WARN / ERROR lines and exits 1 if there is any ERROR.
 Env: WP_DATA_DIR (JSON folder, default _build), WP_OUT_DIR (HTML folder, default repo root).
 """
-import json, os, re, sys
+import html, json, os, re, sys
 from pathlib import Path
 from urllib.parse import urlparse, parse_qsl
 
@@ -173,7 +173,101 @@ def check_html():
             err(f"{p.name}: contains a REPLACE_ME placeholder")
         for u in re.findall(r'href="(https?://[^"]+)"', t):
             check_url(p.name, "href", u.replace("&amp;", "&"))
+    check_seo(pages)
+    check_files()
     return len(pages)
+
+
+def _meta(t, attr, name):
+    m = re.search(r'<meta %s="%s" content="([^"]*)"' % (attr, re.escape(name)), t)
+    return html.unescape(m.group(1)) if m else None
+
+
+def check_seo(pages):
+    titles, descs = {}, {}
+    for p in pages:
+        t = p.read_text(encoding="utf-8")
+        for need in ("og:locale", "og:image:type", "og:description", "og:url", "og:image:alt"):
+            if f'property="{need}"' not in t:
+                err(f"{p.name}: missing {need}")
+        for need in ("twitter:card", "twitter:title", "twitter:description", "twitter:image", "twitter:image:alt"):
+            if f'name="{need}"' not in t:
+                err(f"{p.name}: missing {need}")
+        m = re.search(r"<title>(.*?)</title>", t)
+        title = html.unescape(m.group(1)) if m else ""
+        desc = _meta(t, "name", "description") or ""
+        if len(title) > 65:
+            warn(f"{p.name}: title is {len(title)} chars (> 65)")
+        if not (120 <= len(desc) <= 160):
+            warn(f"{p.name}: description is {len(desc)} chars (want 120-160)")
+        titles.setdefault(title, []).append(p.name)
+        descs.setdefault(desc, []).append(p.name)
+        if p.name == "404.html":
+            continue
+        body = re.sub(r"<script\b.*?</script>", "", t, flags=re.S | re.I)
+        if len(re.findall(r"<h1\b", body)) != 1:
+            err(f"{p.name}: needs exactly one h1")
+        last = 0
+        for lv in (int(x) for x in re.findall(r"<h([1-6])\b", body)):
+            if lv > last + 1 and last:
+                err(f"{p.name}: heading level jumps h{last} -> h{lv}")
+            last = lv
+        for blob in re.findall(r'<script type="application/ld\+json">(.*?)</script>', t, flags=re.S):
+            try:
+                json.loads(blob)
+            except Exception as ex:
+                err(f"{p.name}: invalid JSON-LD ({ex})")
+            if "</" in blob:
+                err(f"{p.name}: unescaped </ inside JSON-LD")
+        if p.name not in ("index.html", "compare.html") and "ld+json" not in t:
+            err(f"{p.name}: no JSON-LD")
+        if 'rel="canonical" href="https://' not in t:
+            err(f"{p.name}: canonical not absolute")
+        for src_ in re.findall(r'<script src="([^"]+)"([^>]*)>', t):
+            if "defer" not in src_[1] and not src_[0].startswith("http"):
+                err(f"{p.name}: external script {src_[0]} lacks defer")
+    for d, names in (*titles.items(), *descs.items()):
+        if len(names) > 1:
+            err(f"duplicate title/description across {names}: {d[:60]}")
+
+
+def check_files():
+    for f in ("robots.txt", "sitemap.xml", "llms.txt", "_headers"):
+        if not (OUT / f).exists():
+            err(f"{f} missing")
+    if (OUT / "robots.txt").exists():
+        r = (OUT / "robots.txt").read_text(encoding="utf-8")
+        for bot in ("*", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "PerplexityBot", "Google-Extended", "Bingbot"):
+            if f"User-agent: {bot}\nAllow: /\n" not in r:
+                err(f"robots.txt: missing group for {bot}")
+        if "Sitemap: https://" not in r:
+            err("robots.txt: Sitemap line missing")
+    if (OUT / "sitemap.xml").exists():
+        sm = (OUT / "sitemap.xml").read_text(encoding="utf-8")
+        locs = re.findall(r"<loc>([^<]+)</loc>", sm)
+        want = {p.stem for p in OUT.glob("*.html") if p.name != "404.html"}
+        have = {(urlparse(u).path.strip("/") or "index") for u in locs}
+        if want != have:
+            err(f"sitemap pages differ from HTML pages: {sorted(want ^ have)}")
+        if "404" in sm:
+            err("sitemap lists 404")
+    if (OUT / "llms.txt").exists():
+        t = (OUT / "llms.txt").read_text(encoding="utf-8")
+        if not t.startswith("# Safety Tool Chart\n\n> "):
+            err("llms.txt: bad header")
+        for p in OUT.glob("*.html"):
+            if p.name in ("404.html", "index.html"):
+                continue
+            if f"/{p.stem})" not in t:
+                err(f"llms.txt: no link to {p.name}")
+        if SAFETY_MARK not in t:
+            err("llms.txt: safety text missing")
+    full = OUT / "llms-full.txt"
+    if full.exists() and full.stat().st_size >= 40000:
+        err("llms-full.txt is 40 KB or larger")
+    keys = [f for f in OUT.glob("*.txt") if re.fullmatch(r"[0-9a-f]{32}\.txt", f.name)]
+    if len(keys) != 1 or keys[0].read_text() != keys[0].stem:
+        err("IndexNow key file missing or its content differs from its name")
 
 
 def main():

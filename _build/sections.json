@@ -1,79 +1,286 @@
 [
-  {
-    "slug": "harnesses", "file": "harnesses.html", "json": "harnesses.json",
-    "title": "Harnesses", "nav": "Harnesses", "noun": "harnesses", "card_noun": "harnesses",
-    "page_title": "Full-body fall protection harnesses compared",
-    "cols": ["brand", "model", "type", "cls", "standards", "capacity", "sizes", "attachment", "weight", "material", "features", "price", "links"],
-    "labels": {"attachment": "D-rings", "cls": "Class"},
-    "filters": ["brand", "type", "cls", "ansi", "csa", "cap"],
-    "description": "Compare full-body fall protection harnesses across brands: ANSI Z359.11 class, D-ring layout, capacity, sizes, weight, materials and price, with links to official spec pages.",
-    "lede": "Full-body harnesses for construction, general industry, tower climbing, positioning and confined-space work. One row per commonly sold part number, with class, D-rings, capacity, sizes and a link to the maker’s own spec page.",
-    "card": "Construction, general-industry, tower and positioning harnesses by class, D-rings, capacity and size."
+ {
+  "slug": "harnesses",
+  "file": "harnesses.html",
+  "json": "harnesses.json",
+  "title": "Harnesses",
+  "nav": "Harnesses",
+  "noun": "harnesses",
+  "card_noun": "harnesses",
+  "page_title": "Full-body fall protection harnesses compared",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "cls",
+   "standards",
+   "capacity",
+   "sizes",
+   "attachment",
+   "weight",
+   "material",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "attachment": "D-rings",
+   "cls": "Class"
   },
-  {
-    "slug": "lanyards", "file": "lanyards.html", "json": "lanyards.json",
-    "title": "Lanyards", "nav": "Lanyards", "noun": "lanyards", "card_noun": "lanyards",
-    "page_title": "Shock-absorbing, positioning and restraint lanyards compared",
-    "cols": ["brand", "model", "type", "cls", "length", "attachment", "capacity", "standards", "weight", "material", "features", "price", "links"],
-    "labels": {"attachment": "Connectors", "cls": "Free fall / class"},
-    "filters": ["brand", "type", "cls", "ansi", "csa", "cap"],
-    "description": "Compare shock-absorbing lanyards (single and twin leg, 6 ft and 12 ft free fall), positioning and restraint lanyards: length, connectors, capacity, standards and price.",
-    "lede": "Energy-absorbing lanyards in single- and twin-leg versions, including 12 ft free-fall models for foot-level tie-off, plus positioning and restraint lanyards. Check the free-fall rating and the clearance the maker requires.",
-    "card": "Single and twin-leg shock-absorbing lanyards, 6 ft and 12 ft free fall, positioning and restraint."
+  "filters": [
+   "brand",
+   "type",
+   "cls",
+   "ansi",
+   "csa",
+   "cap"
+  ],
+  "description": "Compare full-body fall protection harnesses by brand: ANSI Z359.11 class, D-ring layout, capacity, sizes, weight and price, with official spec links.",
+  "lede": "Full-body harnesses for construction, general industry, tower climbing, positioning and confined-space work. One row per commonly sold part number, with class, D-rings, capacity, sizes and a link to the maker’s own spec page.",
+  "card": "Construction, general-industry, tower and positioning harnesses by class, D-rings, capacity and size.",
+  "seo_title": "Full-Body Harnesses Compared",
+  "answer": "A full-body harness is the part of a fall arrest system that holds the worker, usually attached at a dorsal D-ring. Under ANSI/ASSP Z359.11 harnesses carry class letters by attachment point (A fall arrest, D suspension, E confined space, L ladder climbing, P work positioning), and the maker rates each one for a user weight range that includes clothing and tools. OSHA’s [[O502|1926.502(d)(16)]] test criteria assume a combined weight under 310 lb, so heavier users need to check the capacity column and the label. See the [[basics.html#ansi|class breakdown on Basics]] for more."
+ },
+ {
+  "slug": "lanyards",
+  "file": "lanyards.html",
+  "json": "lanyards.json",
+  "title": "Lanyards",
+  "nav": "Lanyards",
+  "noun": "lanyards",
+  "card_noun": "lanyards",
+  "page_title": "Shock-absorbing, positioning and restraint lanyards compared",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "cls",
+   "length",
+   "attachment",
+   "capacity",
+   "standards",
+   "weight",
+   "material",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "attachment": "Connectors",
+   "cls": "Free fall / class"
   },
-  {
-    "slug": "srls", "file": "srls.html", "json": "srls.json",
-    "title": "SRLs (self-retracting lifelines)", "nav": "SRLs", "noun": "SRLs", "card_noun": "SRLs",
-    "page_title": "Self-retracting lifelines (SRLs) compared: Class 1, Class 2, SRL-LE",
-    "cols": ["brand", "model", "type", "cls", "length", "attachment", "capacity", "standards", "weight", "material", "features", "price", "links"],
-    "labels": {"attachment": "Connectors", "cls": "Class"},
-    "filters": ["brand", "type", "cls", "ansi", "csa", "cap"],
-    "description": "Compare self-retracting lifelines across brands: personal web and cable SRLs, single and twin, ANSI Z359.14 Class 1 and Class 2, leading-edge SRL-LE, length, capacity and price.",
-    "lede": "Self-retracting lifelines from small personal web units to cable blocks and leading-edge models. Class 2 and SRL-LE ratings matter when the anchor is at or below the D-ring or the line can run over an edge.",
-    "card": "Personal web and cable SRLs, single and twin, Class 1 / Class 2 and leading-edge models."
+  "filters": [
+   "brand",
+   "type",
+   "cls",
+   "ansi",
+   "csa",
+   "cap"
+  ],
+  "description": "Compare shock-absorbing, positioning and restraint lanyards: single and twin leg, 6 ft and 12 ft free fall, length, connectors, capacity and price.",
+  "lede": "Energy-absorbing lanyards in single- and twin-leg versions, including 12 ft free-fall models for foot-level tie-off, plus positioning and restraint lanyards. Check the free-fall rating and the clearance the maker requires.",
+  "card": "Single and twin-leg shock-absorbing lanyards, 6 ft and 12 ft free fall, positioning and restraint.",
+  "seo_title": "Fall Protection Lanyards Compared",
+  "answer": "An energy-absorbing lanyard has a fixed length and a built-in absorber, and under Z359.13 it is rated for either a 6 ft or a 12 ft free fall. The 12 ft versions are for tie-off down to foot level and stretch more, so they need more clearance below. OSHA’s [[O502|1926.502(d)]] caps free fall at 6 ft and arresting force at 1,800 lb, and [[O140|1910.140]] allows more only if the maker designed and tested for it. Where headroom is tight, compare an SRL, and always use the maker’s clearance chart (see [[basics.html#clearance|Fall clearance]])."
+ },
+ {
+  "slug": "srls",
+  "file": "srls.html",
+  "json": "srls.json",
+  "title": "SRLs (self-retracting lifelines)",
+  "nav": "SRLs",
+  "noun": "SRLs",
+  "card_noun": "SRLs",
+  "page_title": "Self-retracting lifelines (SRLs) compared: Class 1, Class 2, SRL-LE",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "cls",
+   "length",
+   "attachment",
+   "capacity",
+   "standards",
+   "weight",
+   "material",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "attachment": "Connectors",
+   "cls": "Class"
   },
-  {
-    "slug": "anchors", "file": "anchors.html", "json": "anchors.json",
-    "title": "Anchors", "nav": "Anchors", "noun": "anchors", "card_noun": "anchors",
-    "page_title": "Fall protection anchors compared: beam clamps, straps, roof anchors",
-    "cols": ["brand", "model", "type", "attachment", "capacity", "length", "standards", "weight", "material", "features", "price", "links"],
-    "labels": {"attachment": "Connection", "length": "Length ft"},
-    "filters": ["brand", "type", "ansi", "csa"],
-    "description": "Compare anchorage connectors: beam clamps and trolleys, cross-arm straps, roof anchors, concrete D-bolts, weld-on and bolt-on anchors, with capacity, standards, weight and price.",
-    "lede": "Anchorage connectors that give a harness system something rated to tie to: beam clamps, cross-arm straps, roof anchors, concrete and bolt-on anchors. The structure they attach to must carry the load too.",
-    "card": "Beam clamps, cross-arm straps, roof anchors, concrete D-bolts and bolt-on anchors."
+  "filters": [
+   "brand",
+   "type",
+   "cls",
+   "ansi",
+   "csa",
+   "cap"
+  ],
+  "description": "Compare self-retracting lifelines by brand: web and cable, single and twin, ANSI Z359.14 Class 1 and 2, leading-edge SRL-LE, length, capacity and price.",
+  "lede": "Self-retracting lifelines from small personal web units to cable blocks and leading-edge models. Class 2 and SRL-LE ratings matter when the anchor is at or below the D-ring or the line can run over an edge.",
+  "card": "Personal web and cable SRLs, single and twin, Class 1 / Class 2 and leading-edge models.",
+  "seo_title": "SRLs Compared: Class 1, Class 2, SRL-LE",
+  "answer": "A self-retracting lifeline pays out and retracts as the worker moves and typically locks within a short distance of a fall, so it often needs less clearance than a lanyard. Under Z359.14, Class 1 SRLs are meant for anchors overhead, while Class 2 are also tested for anchorages lower than the D-ring, where the free fall and arrest distance are longer. Device types include SRL-R (integral rescue), SRL-P (personal) and SRL-LE (leading edge). Use the maker’s clearance chart, and see [[basics.html#ansi|Z359.14 on Basics]]."
+ },
+ {
+  "slug": "anchors",
+  "file": "anchors.html",
+  "json": "anchors.json",
+  "title": "Anchors",
+  "nav": "Anchors",
+  "noun": "anchors",
+  "card_noun": "anchors",
+  "page_title": "Fall protection anchors compared: beam clamps, straps, roof anchors",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "attachment",
+   "capacity",
+   "length",
+   "standards",
+   "weight",
+   "material",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "attachment": "Connection",
+   "length": "Length ft"
   },
-  {
-    "slug": "connectors", "file": "connectors.html", "json": "connectors.json",
-    "title": "Connectors", "nav": "Connectors", "noun": "connectors", "card_noun": "connectors",
-    "page_title": "Snap hooks, rebar hooks and carabiners compared by gate strength",
-    "cols": ["brand", "model", "type", "gate", "cls", "capacity", "material", "weight", "standards", "features", "price", "links"],
-    "labels": {"cls": "Class / rating"},
-    "filters": ["brand", "type", "ansi", "csa"],
-    "description": "Compare fall protection connectors: locking snap hooks, rebar hooks and carabiners, by gate strength, material, weight, standards and price, with links to official spec pages.",
-    "lede": "Self-locking snap hooks, rebar hooks and carabiners. Gate strength is the number that stops a hook being forced open sideways; the table shows it where the maker publishes it.",
-    "card": "Locking snap hooks, rebar hooks and carabiners compared by gate strength and material."
+  "filters": [
+   "brand",
+   "type",
+   "ansi",
+   "csa"
+  ],
+  "description": "Compare anchorage connectors: beam clamps, cross-arm straps, roof anchors, concrete and bolt-on anchors, with capacity, standards, weight and price.",
+  "lede": "Anchorage connectors that give a harness system something rated to tie to: beam clamps, cross-arm straps, roof anchors, concrete and bolt-on anchors. The structure they attach to must carry the load too.",
+  "card": "Beam clamps, cross-arm straps, roof anchors, concrete D-bolts and bolt-on anchors.",
+  "seo_title": "Fall Protection Anchors Compared",
+  "answer": "The anchorage is what the whole system ties to. Under [[O502|1926.502(d)]] it must support at least 5,000 lb per worker attached, or be designed, installed and used as part of a complete system with a safety factor of at least two, under a qualified person. A beam clamp or strap is only as good as the structure it grips, so the structure has to carry the load too. Where the anchor sits also decides swing-fall risk (see [[basics.html#swing|Swing falls]])."
+ },
+ {
+  "slug": "connectors",
+  "file": "connectors.html",
+  "json": "connectors.json",
+  "title": "Connectors",
+  "nav": "Connectors",
+  "noun": "connectors",
+  "card_noun": "connectors",
+  "page_title": "Snap hooks, rebar hooks and carabiners compared by gate strength",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "gate",
+   "cls",
+   "capacity",
+   "material",
+   "weight",
+   "standards",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "cls": "Class / rating"
   },
-  {
-    "slug": "lifelines", "file": "lifelines.html", "json": "lifelines.json",
-    "title": "Lifelines", "nav": "Lifelines", "noun": "lifeline items", "card_noun": "items",
-    "page_title": "Horizontal lifeline kits and rope grabs compared",
-    "cols": ["brand", "model", "type", "length", "cls", "capacity", "attachment", "standards", "weight", "material", "features", "price", "links"],
-    "labels": {"attachment": "Connection", "length": "Span / length ft", "cls": "Class / rating"},
-    "filters": ["brand", "type", "ansi", "csa", "cap"],
-    "description": "Compare temporary horizontal lifeline kits, rope grabs and vertical lifelines: span, number of users, capacity, standards and price, with links to official spec pages.",
-    "lede": "Portable horizontal lifeline kits that let workers move along a span, plus rope grabs and vertical lifelines. Horizontal lifelines have to be designed and installed under a qualified person.",
-    "card": "Temporary horizontal lifeline kits, rope grabs and vertical lifelines."
+  "filters": [
+   "brand",
+   "type",
+   "ansi",
+   "csa"
+  ],
+  "description": "Compare locking snap hooks, rebar hooks and carabiners for fall protection by gate strength, material, weight, standards and price, with spec links.",
+  "lede": "Self-locking snap hooks, rebar hooks and carabiners. Gate strength is the number that stops a hook being forced open sideways; the table shows it where the maker publishes it.",
+  "card": "Locking snap hooks, rebar hooks and carabiners compared by gate strength and material.",
+  "seo_title": "Snap Hooks and Carabiners Compared",
+  "answer": "Connectors link the harness, lanyard or SRL, and anchor together. Under Z359.12 snap hooks and carabiners must be self-closing and self-locking with gates rated to 3,600 lbf, which is the Gate lbf column here. OSHA’s [[O502|1926.502(d)]] sets D-ring and snap hook minimum tensile strength at 5,000 lb, proof-tested to 3,600 lb, and allows only locking snap hooks; [[O140|1910.140]] adds the automatic-locking requirement. See [[basics.html#ansi|Basics]] for how the standards fit together."
+ },
+ {
+  "slug": "lifelines",
+  "file": "lifelines.html",
+  "json": "lifelines.json",
+  "title": "Lifelines",
+  "nav": "Lifelines",
+  "noun": "lifeline items",
+  "card_noun": "items",
+  "page_title": "Horizontal lifeline kits and rope grabs compared",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "length",
+   "cls",
+   "capacity",
+   "attachment",
+   "standards",
+   "weight",
+   "material",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "attachment": "Connection",
+   "length": "Span / length ft",
+   "cls": "Class / rating"
   },
-  {
-    "slug": "rescue", "file": "rescue.html", "json": "rescue.json",
-    "title": "Rescue & descent", "nav": "Rescue", "noun": "rescue items", "card_noun": "items",
-    "page_title": "Rescue and descent devices and suspension trauma straps compared",
-    "cols": ["brand", "model", "type", "length", "capacity", "attachment", "standards", "weight", "material", "features", "price", "links"],
-    "labels": {"attachment": "Connection", "length": "Working length ft"},
-    "filters": ["brand", "type", "ansi", "csa"],
-    "description": "Compare rescue and descent devices, rescue and retrieval systems, and suspension trauma relief straps: working length, capacity, standards, weight and price.",
-    "lede": "Gear for getting a fallen worker down or back up quickly: controlled-descent devices, pre-rigged rescue kits, retrieval systems, and straps that relieve leg pressure while waiting for rescue.",
-    "card": "Descent and rescue devices, retrieval systems and suspension trauma straps."
-  }
+  "filters": [
+   "brand",
+   "type",
+   "ansi",
+   "csa",
+   "cap"
+  ],
+  "description": "Compare temporary horizontal lifeline kits, rope grabs and vertical lifelines: span, users, capacity, standards and price, with official spec links.",
+  "lede": "Portable horizontal lifeline kits that let workers move along a span, plus rope grabs and vertical lifelines. Horizontal lifelines have to be designed and installed under a qualified person.",
+  "card": "Temporary horizontal lifeline kits, rope grabs and vertical lifelines.",
+  "seo_title": "Horizontal Lifelines and Rope Grabs",
+  "answer": "A horizontal lifeline lets a worker move along a span while staying connected. OSHA’s [[O502|1926.502(d)]] says horizontal lifelines are designed, installed and used under a qualified person with a safety factor of at least two, and that each worker on a vertical lifeline needs their own line. Lanyards and vertical lifelines need a minimum breaking strength of 5,000 lb. Read the maker’s instructions before use, and see [[basics.html#pfas|the OSHA limits on Basics]]."
+ },
+ {
+  "slug": "rescue",
+  "file": "rescue.html",
+  "json": "rescue.json",
+  "title": "Rescue & descent",
+  "nav": "Rescue",
+  "noun": "rescue items",
+  "card_noun": "items",
+  "page_title": "Rescue and descent devices and suspension trauma straps compared",
+  "cols": [
+   "brand",
+   "model",
+   "type",
+   "length",
+   "capacity",
+   "attachment",
+   "standards",
+   "weight",
+   "material",
+   "features",
+   "price",
+   "links"
+  ],
+  "labels": {
+   "attachment": "Connection",
+   "length": "Working length ft"
+  },
+  "filters": [
+   "brand",
+   "type",
+   "ansi",
+   "csa"
+  ],
+  "description": "Compare rescue and descent devices, rescue and retrieval systems, and suspension trauma relief straps: working length, capacity, standards, weight and price.",
+  "lede": "Gear for getting a fallen worker down or back up quickly: controlled-descent devices, pre-rigged rescue kits, retrieval systems, and straps that relieve leg pressure while waiting for rescue.",
+  "card": "Descent and rescue devices, retrieval systems and suspension trauma straps.",
+  "seo_title": "Rescue and Descent Devices Compared",
+  "answer": "Arresting a fall is only half the job: OSHA’s [[O502|1926.502(d)(20)]] requires prompt rescue or the ability for workers to rescue themselves. A worker hanging in a harness can develop suspension intolerance, so the plan, gear and trained people need to be in place before work starts. This chart lists descent and rescue devices, retrieval systems and suspension relief straps. Rescued workers should be medically evaluated; see [[basics.html#rescue|Suspension and rescue planning]]."
+ }
 ]
