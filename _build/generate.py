@@ -144,6 +144,7 @@ def head(title, description, path, jsonld=None):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="msvalidate.01" content="77C3B18F4D942281667A47021926052C" />
 <title>{e(title)}</title>
 <meta name="description" content="{e(description)}">
 <link rel="canonical" href="{e(url)}">
