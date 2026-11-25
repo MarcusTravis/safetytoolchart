@@ -2,6 +2,10 @@
 
 All notable changes to Safety Tool Chart, by month.
 
+## November 2026 — Self-hosted fonts (Nov 24, 2026)
+
+- Self-hosted the site fonts (Archivo, IBM Plex Sans, IBM Plex Mono) as latin-subset woff2 files so pages no longer load type from Google Fonts.
+
 ## November 2026 — SEO and AI-search pass (Nov 20, 2026)
 
 - SEO and AI-search pass: llms.txt, structured data (Dataset, BreadcrumbList, FAQPage), FAQ on Basics, plain-English intros, robots.txt crawler rules, IndexNow.

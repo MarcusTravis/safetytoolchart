@@ -268,6 +268,17 @@ def check_files():
     keys = [f for f in OUT.glob("*.txt") if re.fullmatch(r"[0-9a-f]{32}\.txt", f.name)]
     if len(keys) != 1 or keys[0].read_text() != keys[0].stem:
         err("IndexNow key file missing or its content differs from its name")
+    # Fonts are self-hosted; generated pages and CSS must not call Google Fonts.
+    for path in [*OUT.glob("*.html"), OUT / "theme.css", OUT / "_headers", OUT / "robots.txt"]:
+        if path.exists() and re.search(r"fonts\.googleapis\.com|fonts\.gstatic\.com", path.read_text(encoding="utf-8")):
+            err(f"{path.name}: still references Google Fonts")
+    headers = (OUT / "_headers").read_text(encoding="utf-8") if (OUT / "_headers").exists() else ""
+    if "/fonts/*" not in headers or "max-age=31536000" not in headers:
+        err("_headers: missing long-cache rule for /fonts/*")
+    for f in ("archivo-latin.woff2", "ibm-plex-sans-latin.woff2",
+              "ibm-plex-mono-latin-400.woff2", "ibm-plex-mono-latin-500.woff2"):
+        if not (OUT / "fonts" / f).exists():
+            err(f"fonts/{f} missing")
 
 
 def main():

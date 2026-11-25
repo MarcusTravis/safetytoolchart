@@ -13,10 +13,10 @@ OUT = Path(os.environ.get("WP_OUT_DIR") or ROOT)
 CANON = "https://safetytoolchart.pages.dev"
 SITE = "Safety Tool Chart"
 CHECKED, CHECKED_ISO = "Nov 16, 2026", "2026-11-16"
-SITE_UPDATED, SITE_UPDATED_ISO = "Nov 20, 2026", "2026-11-20"  # last site/template change (sitemap lastmod)
+SITE_UPDATED, SITE_UPDATED_ISO = "Nov 24, 2026", "2026-11-24"  # last site/template change (sitemap lastmod)
 INDEXNOW_KEY = "2ae0335037244607bc920ea25b3b348d"
 OWNER = "Marcus Travis"
-ASSET_V = "20261120a"
+ASSET_V = "20261124a"
 OG_ALT = "Safety Tool Chart: an overhead anchor, a lanyard and a harness D-ring drawn in teal line art"
 # Cloudflare Web Analytics: paste the site token here. While it is "REPLACE_ME" the beacon is left out entirely.
 CF_TOKEN = "22edf9db96334f9380517b93ca527ff9"
@@ -29,8 +29,6 @@ BANDS = "$ under $100 · $$ $100–$250 · $$$ $250–$600 · $$$$ $600–$1,500
 SAFETY = ("Reference only — not training and not a substitute for the manufacturer’s instructions, a competent person, or OSHA/ANSI requirements. "
           "Inspect gear before each use, remove from service any equipment that has arrested a fall, and verify specs with the manufacturer.")
 KOFI = "https://ko-fi.com/marcustravis"
-FONTS = ("https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Mono:wght@400;500"
-         "&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap")
 FIELDS = ["id", "brand", "series", "model", "name", "type", "standards", "ansi_class", "cap_min_lb", "cap_max_lb", "length_ft",
           "weight_lb", "attachment", "gate_lbf", "material", "sizes", "features", "price_usd", "price_source", "price_url",
           "price_checked", "price_scale", "product_url", "spec_url", "notes"]
@@ -169,9 +167,7 @@ def head(title, description, path, jsonld=None):
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="{FONTS}">
+<link rel="preload" href="fonts/ibm-plex-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="theme.css?v={ASSET_V}">{ld}
 </head>
 """
@@ -651,6 +647,10 @@ def changelog(stats):
     lines = ", ".join(f"{short(s)} {c[s['slug']]}" for s in SECTIONS)
     return [{
         "month": "November 2026", "iso": SITE_UPDATED_ISO, "date": SITE_UPDATED,
+        "title": "Self-hosted fonts",
+        "items": ["Self-hosted the site fonts (Archivo, IBM Plex Sans, IBM Plex Mono) as latin-subset woff2 files so pages no longer load type from Google Fonts."]},
+        {
+        "month": "November 2026", "iso": "2026-11-20", "date": "Nov 20, 2026",
         "title": "SEO and AI-search pass",
         "items": ["SEO and AI-search pass: llms.txt, structured data (Dataset, BreadcrumbList, FAQPage), FAQ on Basics, plain-English intros, robots.txt crawler rules, IndexNow."]},
         {
@@ -718,7 +718,7 @@ def write_404():
 <link rel="icon" href="{CANON}/favicon.ico" sizes="any">
 <link rel="icon" href="{CANON}/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{CANON}/apple-touch-icon.png">
-<link rel="stylesheet" href="{FONTS.replace('&', '&amp;')}">
+<link rel="preload" href="{CANON}/fonts/ibm-plex-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{CANON}/theme.css?v={ASSET_V}">
 <script>
 (function(){{var p=location.pathname;if(p.length>1&&p.charAt(p.length-1)==="/")location.replace(p.slice(0,-1)+location.search+location.hash);}})();
@@ -814,7 +814,8 @@ def write_meta(sections_items):
           "  X-Content-Type-Options: nosniff\n"
           "  Referrer-Policy: strict-origin-when-cross-origin\n"
           "  X-Frame-Options: SAMEORIGIN\n"
-          f"\n/llms.txt\n{TXT}" + (f"\n/llms-full.txt\n{TXT}" if full else "") + f"\n/{INDEXNOW_KEY}.txt\n{TXT}")
+          f"\n/llms.txt\n{TXT}" + (f"\n/llms-full.txt\n{TXT}" if full else "") + f"\n/{INDEXNOW_KEY}.txt\n{TXT}"
+          "\n/fonts/*\n  Cache-Control: public, max-age=31536000, immutable\n")
     files = ", ".join(f"`{s['json']}`" for s in SECTIONS)
     write("README.md", f"""# {SITE}
 
