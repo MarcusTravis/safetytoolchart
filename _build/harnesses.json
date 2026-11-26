@@ -32,7 +32,7 @@
     "product_url": "https://www.petzl.com/us/en/professional/products/rope-access-harnesses/avao-fast-international-version/AVAO-FAST-version-internationa_PRO_a2m680000004L5XAAU.html",
     "spec_url": "https://www.petzl.com/us/en/professional/products/rope-access-harnesses/avao-fast-international-version/AVAO-FAST-version-internationa_PRO_a2m680000004L5XAAU.html",
     "notes": "Weight shown is size 1 (2100 g converted). Size 0 is 2060 g, size 2 is 2200 g. Catalog lists no weight-capacity range.",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "id": "petzl-avao-intl-c071cb00",
@@ -100,7 +100,7 @@
     "product_url": "https://www.petzl.com/us/en/professional/products/energy-networks-harnesses/volt-international-version/VOLT-version-internationale_PRO_a2mTx000004kyYLIAY.html",
     "spec_url": "https://www.petzl.com/us/en/professional/products/energy-networks-harnesses/volt-international-version/VOLT-version-internationale_PRO_a2mTx000004kyYLIAY.html",
     "notes": "Weight is size 1 (2375 g converted).",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "id": "petzl-volt-light-intl-c072ha00",
@@ -132,7 +132,7 @@
     "product_url": "https://www.petzl.com/us/en/professional/products/energy-networks-harnesses/volt-light-international-version/VOLT-LIGHT-version-internation_PRO_a2mTx000004kb3tIAA.html",
     "spec_url": "https://www.petzl.com/us/en/professional/products/energy-networks-harnesses/volt-light-international-version/VOLT-LIGHT-version-internation_PRO_a2mTx000004kb3tIAA.html",
     "notes": "Weight is size 1 (2015 g converted).",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "id": "petzl-newton-intl-c073ba01",
@@ -163,7 +163,7 @@
     "product_url": "https://www.petzl.com/us/en/professional/products/fall-arrest-harnesses/newton-international-version/NEWTON-version-internationale_PRO_a2m5I000000TNKpQAO.html",
     "spec_url": "https://www.petzl.com/us/en/professional/products/fall-arrest-harnesses/newton-international-version/NEWTON-version-internationale_PRO_a2m5I000000TNKpQAO.html",
     "notes": "Weight is size 1 (1125 g converted). Fall-arrest only; no positioning belt.",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "id": "petzl-newton-fast-intl-c073da01",
@@ -204,7 +204,7 @@
     "price_source": "Fall Protection Pros",
     "price_url": "https://www.fallprotectionpros.com/products/msa-v-fit-universal-safety-harness",
     "price_scale": null,
-    "notes": "MSA data sheet (01.2021) gives 130-310 lb under ANSI and 400 lb under OSHA/CSA. Weight is for Standard with back D-ring and quick-connect legs. Spec sheet is hosted by a retailer; MSA page shown is the same family (XL).",
+    "notes": "MSA's page for this exact number lists one back D-ring, 400 lb, ANSI/ASSP Z359.11-2021 and CSA Z259.10. Data sheet (01.2021) gives 130-310 lb under ANSI and 400 lb under OSHA/CSA. Weight is for Standard, back D-ring, quick-connect legs.",
     "ansi_class": null,
     "id": "msa-v-fit-10194630",
     "brand": "MSA",
@@ -223,9 +223,9 @@
     "material": "Polyester web, anodized forged aluminum D-ring and buckles",
     "sizes": "XS, Standard, XL, XXL",
     "features": "Slim athletic cut with a built-in attachment point for personal fall limiters so the dorsal ring stays free.",
-    "product_url": "https://us.msasafety.com/pn/10194671?locale=en",
-    "spec_url": "https://www.magidglove.com/media/catalog/product/attachment/2/3/2300-245-mc_v-fit-technical-data-sheet.indd_1.pdf",
-    "price_checked": "2026-11-16"
+    "product_url": "https://us.msasafety.com/pn/10194630?locale=en",
+    "spec_url": "https://us.msasafety.com/pn/10194630?locale=en",
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -256,7 +256,7 @@
     "features": "Budget fall-arrest harness with paired lanyard keepers; OSHA user capacity goes to 425 lb.",
     "product_url": "https://falltech.com/Product/7015",
     "spec_url": "https://falltech.com/Product/7015",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -318,7 +318,7 @@
     "features": "Gel-padded yoke and legs with a padded positioning belt, tool-tether rings and a built-in trauma relief strap.",
     "product_url": "https://falltech.com/Product/7081B",
     "spec_url": "https://falltech.com/Product/7081B",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -350,7 +350,7 @@
     "features": "Flame-resistant web throughout with overmolded dielectric rings and lateral-style leg straps.",
     "product_url": "https://falltech.com/Product/8077FDQC",
     "spec_url": "https://falltech.com/Product/8077FDQC",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -381,7 +381,7 @@
     "features": "Heat-resistant nylon alternative to Nomex for energized-work crews, with label cover and lanyard keepers.",
     "product_url": "https://falltech.com/Product/7049",
     "spec_url": "https://falltech.com/Product/7049",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -412,7 +412,7 @@
     "features": "Magnet-retained carbon seat and modular tool-belt layout for climbers; includes suspension trauma straps.",
     "product_url": "https://falltech.com/Product/8048QC",
     "spec_url": "https://falltech.com/Product/8048QC",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -442,7 +442,7 @@
     "features": "Stripped-down economy harness with lanyard keepers and quick-fit leg and chest connections, no padding.",
     "product_url": "https://us.msasafety.com/pn/10197196?locale=en",
     "spec_url": "https://us.msasafety.com/pn/10197196?locale=en",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -452,7 +452,7 @@
     "price_source": "Fall Protection Pros",
     "price_url": "https://www.fallprotectionpros.com/products/msa-v-formplus-construction-safety-harness-1",
     "price_scale": null,
-    "notes": "MSA product title says Back & Hip D-ring but its spec table lists one back D-ring; confirm before ordering. Weight as listed by MSA (5.291 lb / 2.400 kg).",
+    "notes": "MSA's page title says 'Back & Hip D-Ring' but its own spec table says D-ring location BACK and number of D-rings 1; back-only kept. Check the harness label. Weight as listed by MSA (5.291 lb / 2.400 kg).",
     "ansi_class": null,
     "id": "msa-v-form-plus-10206161",
     "brand": "MSA",
@@ -471,7 +471,7 @@
     "features": "Padded construction harness with a sewn-in belt and a personal-fall-limiter tunnel.",
     "product_url": "https://us.msasafety.com/pn/10206161?locale=en",
     "spec_url": "https://us.msasafety.com/pn/10206161?locale=en",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -501,7 +501,7 @@
     "features": "Low-cost harness with hip rings for work positioning and restraint.",
     "product_url": "https://us.msasafety.com/pn/10197215?locale=en",
     "spec_url": "https://us.msasafety.com/pn/10197215?locale=en",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -533,7 +533,7 @@
     "features": "Basic harness with rubber web ends, dual impact indicators and auto-resetting lanyard keepers.",
     "product_url": "https://www.guardianfall.com/product/velocity-harness",
     "spec_url": "https://s3.us-west-2.amazonaws.com/catsy.672/1900151-B_Velocity+Harness+TDS.pdf",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -562,7 +562,7 @@
     "features": "Cushioned shoulders with a tangle-resistant back design and quick-connect buckles.",
     "product_url": "https://www.guardianfall.com/product/cyclone-harness",
     "spec_url": "https://www.guardianfall.com/product/cyclone-harness",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -593,7 +593,7 @@
     "features": "Slotted adapter keeps personal SRLs high and the dorsal ring clear; removable belt for tool bags.",
     "product_url": "https://www.guardianfall.com/product/seraph-harness",
     "spec_url": "https://s3.us-west-2.amazonaws.com/catsy.672/1900120-C_SERAPH_Series+Harness+TDS.pdf",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -603,7 +603,7 @@
     "price_source": "Fall Protection Pros",
     "price_url": "https://www.fallprotectionpros.com/products/guardian-b7-comfort-construction-harness",
     "price_scale": null,
-    "notes": "Guardian sheet: ANSI 130-310 lb; OSHA 100-420 lb. Price is for size S with quick-connect legs (3740085).",
+    "notes": "Guardian sheet: ANSI 130-310 lb; OSHA 100-420 lb. Price is for size S with quick-connect legs (3740085). Safety notice: Guardian stop-use-and-inspect notice G-H0001-A (15 Aug 2024) covers B7-Comfort 3740000-3740132 with integrated trauma straps (strap may be installed wrong; fall arrest not affected). Check with Guardian.",
     "ansi_class": null,
     "id": "guardian-b7-comfort-3740085",
     "brand": "Guardian",
@@ -624,7 +624,7 @@
     "features": "Double-locking torso adjusters and adjustable padding with an NFC safety-info chip and trauma relief straps.",
     "product_url": "https://www.guardianfall.com/product/b7-comfort-harness",
     "spec_url": "https://s3.us-west-2.amazonaws.com/catsy.672/1900001-Rev.D_B7+Comfort+Harness_TDS+%282%29.pdf",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -651,7 +651,7 @@
     "features": "Low-cost one-piece harness with an impact indicator and writable label that does not damage the web.",
     "product_url": "https://maltadynamics.com/products/warthog-tongue-and-buckle",
     "spec_url": "https://maltadynamics.com/products/warthog-tongue-and-buckle",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -676,7 +676,7 @@
     "features": "Budget harness with pass-through leg buckles; Malta describes it as usable for restraint and positioning too.",
     "product_url": "https://maltadynamics.com/products/warthog-pass-thru",
     "spec_url": "https://maltadynamics.com/products/warthog-pass-thru",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -686,7 +686,7 @@
     "price_source": "Fall Protection Pros",
     "price_url": "https://www.fallprotectionpros.com/products/dbi-sala-delta-ii-universal-harness",
     "price_scale": null,
-    "notes": "Older-generation listing; GME Supply marks it discontinued. Other sellers show 3.7 lb. 3M site would not load, so no manufacturer link.",
+    "notes": "Older-generation listing; GME Supply marks it discontinued. Other sellers show 3.7 lb. 3M's site returned access-denied on 2026-11-25, so 3M's own status (discontinued or replaced) could not be confirmed.",
     "ansi_class": null,
     "id": "3m-dbi-sala-delta-1102000",
     "brand": "3M DBI-SALA",
@@ -708,7 +708,7 @@
     "features": "No-tangle triangle frame and impact indicator; fall arrest only, no hip rings.",
     "product_url": null,
     "spec_url": "https://www.gmesupply.com/C-DS-1102000",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -737,7 +737,7 @@
     "features": "Light aluminum back ring with a built-in SRL adapter, reflective panels and quick torso adjusters.",
     "product_url": null,
     "spec_url": "https://www.fallprotectionpros.com/products/dbi-sala-exofit-nex-universal",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -763,7 +763,7 @@
     "features": "Textile loops replace metal D-rings, with leather insulators behind the pass-through leg buckles.",
     "product_url": null,
     "spec_url": "https://www.fallprotectionpros.com/products/dbi-sala-delta-arc-flash-harness-dorsal-front-web-loop",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -792,7 +792,7 @@
     "features": "Padded back and hip with a sturdy tool-bag belt and fixed (non-stand-up) back ring.",
     "product_url": null,
     "spec_url": "https://www.fallprotectionpros.com/products/3m-protecta-construction-harness",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -823,7 +823,7 @@
     "features": "Open-core padding cuts heat build-up and the stretch web moves with the wearer.",
     "product_url": "https://explore.honeywell.com/rs/510-REI-219/images/Miller%20AirCore%20Brochure_v4.pdf",
     "spec_url": "https://explore.honeywell.com/rs/510-REI-219/images/Miller%20AirCore%20Brochure_v4.pdf",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -833,7 +833,7 @@
     "price_source": "Fall Protection Pros",
     "price_url": "https://www.fallprotectionpros.com/products/miller-titan-full-body-harness-tongue-buckles",
     "price_scale": null,
-    "notes": "Retailer text says ANSI Z359.11 compliant and rated for a 400 lb worker; one description mentions forward side D-rings while the listing tags say none, so check the label. Honeywell site would not load.",
+    "notes": "Back D-ring only: Honeywell's Titan family sheet lists T4500/UAK with a sliding back D-ring and no side D-rings (side-D versions are the T4007 / T4507 numbers). Honeywell's sheet rates it to 400 lb; a July 2026 Miller by PIP data sheet (copy hosted by a distributor) says 420 lb max working load and lists no standards, so 400 is kept pending a label check. Miller fall protection now appears under PIP; Honeywell and PIP pages would not load directly.",
     "ansi_class": null,
     "id": "honeywell-miller-titan-t4500",
     "brand": "Honeywell Miller",
@@ -848,7 +848,7 @@
     "sizes": "Universal, S/M, XXL",
     "features": "Low-cost hi-vis harness with a back strap that keeps it from riding up in a fall.",
     "product_url": null,
-    "spec_url": "https://www.fallprotectionpros.com/products/miller-titan-full-body-harness-tongue-buckles",
+    "spec_url": "https://assets.testequity.com/te1/Documents/pdf/Miller/MILLERBYPIP_T4500-UAK_Non-Stretch-Full-Body-Harness_DataSheet_01_0626.pdf",
     "price_checked": "2026-11-16"
   },
   {
@@ -874,7 +874,7 @@
     "features": "Heat-resistant black-and-gray web with PivotLink connections and a back shield.",
     "product_url": null,
     "spec_url": "https://www.fallprotectionpros.com/products/miller-nomex-revolution-harness",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "length_ft": null,
@@ -905,7 +905,7 @@
     "features": "Web loop on the back leaves the D-ring free; includes trauma straps and a padded tool belt.",
     "product_url": null,
     "spec_url": "https://www.fallprotectionpros.com/products/frontline-american-construction-harness-with-aluminum-hardware",
-    "price_checked": "2026-11-16"
+    "price_checked": "2026-11-25"
   },
   {
     "id": "werner-litefit-h312002",
